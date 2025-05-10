@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed1018a8-33f3-4df8-a06b-ca68025ff27b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spark_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/spark_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_spark_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_spark_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
