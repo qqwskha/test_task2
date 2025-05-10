@@ -1,15 +1,5 @@
 from pyspark.sql import SparkSession
 from src.spark_utils import get_product_category_pairs
-import os
-import sys
-
-# Вывод текущих переменных окружения
-print("JAVA_HOME:", os.getenv("JAVA_HOME"))
-print("PATH:", os.getenv("PATH"))
-
-# Отладка PySpark
-os.environ['PYSPARK_SUBMIT_ARGS'] = '--verbose pyspark-shell'
-
 
 def main():
     # Инициализация SparkSession
